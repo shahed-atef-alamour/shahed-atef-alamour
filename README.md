@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm shahed atef</h1>
 <h3 align="center">A passionate frontend developer from palestine in gaza strip</h3>
-<img align="right" alt="coding" width="400" src="![shsh](https://github.com/shahed-atef-alamour/shahed-atef-alamour/assets/138508686/2bdfc232-5333-4d97-9397-d24ec91b83ef)">
+![shsh](https://github.com/shahed-atef-alamour/shahed-atef-alamour/assets/138508686/2bdfc232-5333-4d97-9397-d24ec91b83ef)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahed-atef-alamour&label=Profile%20views&color=0e75b6&style=flat" alt="shahed-atef-alamour" /> </p>
 
