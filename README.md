@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm shahed atef</h1>
 <h3 align="center">A passionate frontend developer from palestine in gaza strip</h3>
-![shsh](https://github.com/shahed-atef-alamour/shahed-atef-alamour/assets/138508686/2bdfc232-5333-4d97-9397-d24ec91b83ef)
-
+<img align="right" alt="coding" width="400" src"https://i.gifer.com/YzJM.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahed-atef-alamour&label=Profile%20views&color=0e75b6&style=flat" alt="shahed-atef-alamour" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahed-atef-alamour" alt="shahed-atef-alamour" /></a> </p>
